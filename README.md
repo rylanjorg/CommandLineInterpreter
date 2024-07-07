@@ -1,6 +1,8 @@
 # Linux Command Line Interpreter
 
-## Instructions for compiling/running CLI2.cpp (improved command line interpreter)
+Coursework and documentation can be found in the file 'CLI2.docx'
+
+## Instructions for compiling/running CLI2.cpp:
 
 1. Move CLI2.cpp to the current directory
 2. Run "sudo apt-get install libreadline-dev" to install readline library
